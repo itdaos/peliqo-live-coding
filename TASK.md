@@ -4,17 +4,17 @@ Clone and make use of current repo as a basis.
 
 Create web store application.
 
-### Product Listing: /products
-- View all available products
+### Product Listing: /products or /
+- View all available products +-
 - Pagination
 
 ### Product detail: /products/:productId
-- View product information
-- Add to cart
+- View product information +
+- Add to cart +
 
 ### Cart: /cart
-- Show items added to cart
-- Delete item from cart
+- Show items added to cart + 
+- Delete item from cart + 
 
 ## API
 https://fakestoreapi.com/
